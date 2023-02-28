@@ -1,0 +1,29 @@
+#background-image {
+    background-image: url('../../../assests/images/Cover/daniel-leone-v7daTKlZzaw-unsplash\ 1.png');
+
+}
+
+.input-search-banner {
+    width: 110vh;
+    height: 7vh;
+    border-radius: 2vh;
+    padding-left: 7vh;
+    font-size: 18px
+}
+
+.search {
+    /* margin-top: 6vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-search {
+    position: relative;
+    left: 5vh;
+    color: #A7A7A7;
+}
+
+.banner-p {
+    font-family: 'Montserrat', sans-serif;
+}

@@ -1,0 +1,14 @@
+.image-radius {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.name {
+    font-size: 12px;
+    font-weight: 700;
+
+}
+
+.username {
+    font-size: 10px;
+}
